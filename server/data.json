@@ -1,0 +1,392 @@
+[
+    {
+        "id": 1,
+        "chefName": "Aziza Hussaini",
+        "chefPicture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 30,
+        "likes": 5014,
+        "chefShortBio": "Aziza Hussaini is a renowned Afghan chef with over 15 years of experience in cooking authentic Afghan cuisine. She is passionate about sharing her love for Afghan food with the world and has written several cookbooks on the subject.",
+        "chefRecipes": [
+            {
+                "name": "Kabuli Pulao",
+                "ingredients": [
+                    "rice",
+                    "lamb",
+                    "carrots",
+                    "raisins",
+                    "onions"
+                ],
+                "cookingMethod": [
+                    "1. Rinse rice and soak in water for 30 minutes",
+                    "2. Fry lamb in oil until brown.",
+                    "3. Add onions and fry until caramelized.",
+                    "4. Add carrots and raisins and cook for a few minutes.",
+                    "5. Add water and bring to a boil.",
+                    "6. Add rice and cook until tender."
+                ],
+                "rating": 4.5
+            },
+            {
+                "name": "Ashak",
+                "ingredients": [
+                    "flour",
+                    "scallions",
+                    "leeks",
+                    "cilantro",
+                    "yogurt"
+                ],
+                "cookingMethod": [
+                    "1. Mix flour, salt, and water to make dough.",
+                    "2. Roll out dough and cut into circles.",
+                    "3. Mix scallions, leeks, cilantro, and salt.",
+                    "4. Place filling on dough circles and fold into dumplings.",
+                    "5. Boil dumplings until tender.",
+                    "6. Serve with yogurt and garlic sauce."
+                ],
+                "rating": 4.8
+            },
+            {
+                "name": "Mantu",
+                "ingredients": [
+                    "ground beef",
+                    "onion",
+                    "garlic",
+                    "dough",
+                    "yogurt"
+                ],
+                "cookingMethod": [
+                    "1. Mix ground beef, onion, garlic, salt, and pepper.",
+                    "2. Roll out dough and cut into squares.",
+                    "3. Place filling on dough squares and fold into dumplings.", 
+                    "4. Boil dumplings until tender.",
+                    "5. Serve with yogurt and garlic sauce."],"rating": 4.7
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "chefName": "Farid Ahmad",
+            "chefPicture": "https://img.freepik.com/free-photo/medium-shot-smiley-man-holding-food-plate_23-2149631670.jpg?w=360&t=st=1682984188~exp=1682984788~hmac=a3841485cbe288e890d0cdec264f84e04ce6ab5e7e0225ea238ea5f7fb9c0f8b",
+            "yearsOfExperience": 12,
+            "numberOfRecipes": 25,
+            "likes": 4044,
+            "chefShortBio": "Farid Ahmad is a talented Afghan chef with over 12 years of experience in cooking Afghan cuisine. She is dedicated to preserving traditional Afghan recipes and loves to experiment with new flavors and techniques.",
+            "chefRecipes": [
+                {
+                    "name": "Kabuli Pulao",
+                    "ingredients": [
+                        "rice",
+                        "lamb",
+                        "carrots",
+                        "raisins",
+                        "onions"
+                    ],
+                    "cookingMethod": [
+                        "1. Rinse rice and soak in water for 30 minutes",
+                        "2. Fry lamb in oil until brown.",
+                        "3. Add onions and fry until caramelized.",
+                        "4. Add carrots and raisins and cook for a few minutes.",
+                        "5. Add water and bring to a boil.",
+                        "6. Add rice and cook until tender."
+                    ],
+                    "rating": 4.5
+                },
+                {
+                    "name": "Ashak",
+                    "ingredients": [
+                        "flour",
+                        "scallions",
+                        "leeks",
+                        "cilantro",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix flour, salt, and water to make dough.",
+                        "2. Roll out dough and cut into circles.",
+                        "3. Mix scallions, leeks, cilantro, and salt.",
+                        "4. Place filling on dough circles and fold into dumplings.",
+                        "5. Boil dumplings until tender.",
+                        "6. Serve with yogurt and garlic sauce."
+                    ],
+                    "rating": 4.8
+                },
+                {
+                    "name": "Mantu",
+                    "ingredients": [
+                        "ground beef",
+                        "onion",
+                        "garlic",
+                        "dough",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix ground beef, onion, garlic, salt, and pepper.",
+                        "2. Roll out dough and cut into squares.",
+                        "3. Place filling on dough squares and fold into dumplings.", 
+                        "4. Boil dumplings until tender.",
+                        "5. Serve with yogurt and garlic sauce."],"rating": 4.7
+                    }
+                ]
+        },
+        {
+            "id": 3,
+            "chefName": "Najibullah Ayubi",
+            "chefPicture": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?w=360&t=st=1682984072~exp=1682984672~hmac=d16a6b1514e19b8791aa242edbf62d66afb239debe95f4e3e59292da22e595a9",
+            "yearsOfExperience": 20,
+            "numberOfRecipes": 45,
+            "likes": 6036,
+            "chefShortBio": "Najibullah Ayubi is a highly experienced Afghan chef who has been cooking for over 20 years. He is passionate about creating delicious and healthy Afghan dishes that showcase the unique flavors and ingredients of the region.",
+            "chefRecipes": [
+                {
+                    "name": "Kabuli Pulao",
+                    "ingredients": [
+                        "rice",
+                        "lamb",
+                        "carrots",
+                        "raisins",
+                        "onions"
+                    ],
+                    "cookingMethod": [
+                        "1. Rinse rice and soak in water for 30 minutes",
+                        "2. Fry lamb in oil until brown.",
+                        "3. Add onions and fry until caramelized.",
+                        "4. Add carrots and raisins and cook for a few minutes.",
+                        "5. Add water and bring to a boil.",
+                        "6. Add rice and cook until tender."
+                    ],
+                    "rating": 4.5
+                },
+                {
+                    "name": "Ashak",
+                    "ingredients": [
+                        "flour",
+                        "scallions",
+                        "leeks",
+                        "cilantro",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix flour, salt, and water to make dough.",
+                        "2. Roll out dough and cut into circles.",
+                        "3. Mix scallions, leeks, cilantro, and salt.",
+                        "4. Place filling on dough circles and fold into dumplings.",
+                        "5. Boil dumplings until tender.",
+                        "6. Serve with yogurt and garlic sauce."
+                    ],
+                    "rating": 4.8
+                },
+                {
+                    "name": "Mantu",
+                    "ingredients": [
+                        "ground beef",
+                        "onion",
+                        "garlic",
+                        "dough",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix ground beef, onion, garlic, salt, and pepper.",
+                        "2. Roll out dough and cut into squares.",
+                        "3. Place filling on dough squares and fold into dumplings.", 
+                        "4. Boil dumplings until tender.",
+                        "5. Serve with yogurt and garlic sauce."],"rating": 4.7
+                    }
+                ]
+        },
+        {
+            "id": 4,
+            "chefName": "Ahmad Jan",
+            "chefPicture": "https://img.freepik.com/free-photo/portrait-confident-male-chef-kitchen_23-2147863584.jpg?w=360&t=st=1682984274~exp=1682984874~hmac=6b920e8d56f339a34e6ef7dcef6a8cf4197bcacb9d1e1b4d3a961c9f0091d755",
+            "yearsOfExperience": 20,
+            "numberOfRecipes": 50,
+            "likes": 3514,
+            "chefShortBio": "Ahmad Jan is a master Afghan chef with over 20 years of experience in cooking authentic Afghan cuisine. He has trained under some of the best chefs in Afghanistan and has won numerous awards for his culinary skills.",
+            "chefRecipes": [
+                {
+                    "name": "Kabuli Pulao",
+                    "ingredients": [
+                        "rice",
+                        "lamb",
+                        "carrots",
+                        "raisins",
+                        "onions"
+                    ],
+                    "cookingMethod": [
+                        "1. Rinse rice and soak in water for 30 minutes",
+                        "2. Fry lamb in oil until brown.",
+                        "3. Add onions and fry until caramelized.",
+                        "4. Add carrots and raisins and cook for a few minutes.",
+                        "5. Add water and bring to a boil.",
+                        "6. Add rice and cook until tender."
+                    ],
+                    "rating": 4.5
+                },
+                {
+                    "name": "Ashak",
+                    "ingredients": [
+                        "flour",
+                        "scallions",
+                        "leeks",
+                        "cilantro",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix flour, salt, and water to make dough.",
+                        "2. Roll out dough and cut into circles.",
+                        "3. Mix scallions, leeks, cilantro, and salt.",
+                        "4. Place filling on dough circles and fold into dumplings.",
+                        "5. Boil dumplings until tender.",
+                        "6. Serve with yogurt and garlic sauce."
+                    ],
+                    "rating": 4.8
+                },
+                {
+                    "name": "Mantu",
+                    "ingredients": [
+                        "ground beef",
+                        "onion",
+                        "garlic",
+                        "dough",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix ground beef, onion, garlic, salt, and pepper.",
+                        "2. Roll out dough and cut into squares.",
+                        "3. Place filling on dough squares and fold into dumplings.", 
+                        "4. Boil dumplings until tender.",
+                        "5. Serve with yogurt and garlic sauce."],"rating": 4.7
+                    }
+                ]
+        },
+        {
+            "id": 5,
+            "chefName": "Ahmad Qais",
+            "chefPicture": "https://img.freepik.com/free-photo/male-chef-kitchen-cooking-dish-frying-pan_23-2149646204.jpg?w=360&t=st=1682984541~exp=1682985141~hmac=21b3ffb19a046cb00766dd1fb800700db436e3a38fa2e80b72c991fb3ae0adb2",
+            "yearsOfExperience": 10,
+            "numberOfRecipes": 20,
+            "likes": 6450,
+            "chefShortBio": "Ahmad Qais is a talented Afghan chef with 10 years of experience in cooking traditional Afghan dishes. He specializes in creating innovative recipes that blend traditional flavors with modern techniques.",
+            "chefRecipes": [
+                {
+                    "name": "Kabuli Pulao",
+                    "ingredients": [
+                        "rice",
+                        "lamb",
+                        "carrots",
+                        "raisins",
+                        "onions"
+                    ],
+                    "cookingMethod": [
+                        "1. Rinse rice and soak in water for 30 minutes",
+                        "2. Fry lamb in oil until brown.",
+                        "3. Add onions and fry until caramelized.",
+                        "4. Add carrots and raisins and cook for a few minutes.",
+                        "5. Add water and bring to a boil.",
+                        "6. Add rice and cook until tender."
+                    ],
+                    "rating": 4.5
+                },
+                {
+                    "name": "Ashak",
+                    "ingredients": [
+                        "flour",
+                        "scallions",
+                        "leeks",
+                        "cilantro",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix flour, salt, and water to make dough.",
+                        "2. Roll out dough and cut into circles.",
+                        "3. Mix scallions, leeks, cilantro, and salt.",
+                        "4. Place filling on dough circles and fold into dumplings.",
+                        "5. Boil dumplings until tender.",
+                        "6. Serve with yogurt and garlic sauce."
+                    ],
+                    "rating": 4.8
+                },
+                {
+                    "name": "Mantu",
+                    "ingredients": [
+                        "ground beef",
+                        "onion",
+                        "garlic",
+                        "dough",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix ground beef, onion, garlic, salt, and pepper.",
+                        "2. Roll out dough and cut into squares.",
+                        "3. Place filling on dough squares and fold into dumplings.", 
+                        "4. Boil dumplings until tender.",
+                        "5. Serve with yogurt and garlic sauce."],"rating": 4.7
+                    }
+                ]
+        },
+        {
+            "id": 6,
+            "chefName": "Ahmad Karimi",
+            "chefPicture": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9899.jpg?w=360&t=st=1682984618~exp=1682985218~hmac=a2ec968503bde13582ca7b6b15a0863c042a1f656306cea5db13669ca4f44b59",
+            "yearsOfExperience": 20,
+            "numberOfRecipes": 40,
+            "likes": 4065,
+            "chefShortBio": "Ahmad Karimi is a master Afghan chef with over 20 years of experience in creating delicious Afghan dishes. He is known for his attention to detail and his ability to create complex flavors with simple ingredients.",
+            "chefRecipes": [
+                {
+                    "name": "Kabuli Pulao",
+                    "ingredients": [
+                        "rice",
+                        "lamb",
+                        "carrots",
+                        "raisins",
+                        "onions"
+                    ],
+                    "cookingMethod": [
+                        "1. Rinse rice and soak in water for 30 minutes",
+                        "2. Fry lamb in oil until brown.",
+                        "3. Add onions and fry until caramelized.",
+                        "4. Add carrots and raisins and cook for a few minutes.",
+                        "5. Add water and bring to a boil.",
+                        "6. Add rice and cook until tender."
+                    ],
+                    "rating": 4.5
+                },
+                {
+                    "name": "Ashak",
+                    "ingredients": [
+                        "flour",
+                        "scallions",
+                        "leeks",
+                        "cilantro",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix flour, salt, and water to make dough.",
+                        "2. Roll out dough and cut into circles.",
+                        "3. Mix scallions, leeks, cilantro, and salt.",
+                        "4. Place filling on dough circles and fold into dumplings.",
+                        "5. Boil dumplings until tender.",
+                        "6. Serve with yogurt and garlic sauce."
+                    ],
+                    "rating": 4.8
+                },
+                {
+                    "name": "Mantu",
+                    "ingredients": [
+                        "ground beef",
+                        "onion",
+                        "garlic",
+                        "dough",
+                        "yogurt"
+                    ],
+                    "cookingMethod": [
+                        "1. Mix ground beef, onion, garlic, salt, and pepper.",
+                        "2. Roll out dough and cut into squares.",
+                        "3. Place filling on dough squares and fold into dumplings.", 
+                        "4. Boil dumplings until tender.",
+                        "5. Serve with yogurt and garlic sauce."],"rating": 4.7
+                    }
+                ]
+        }
+    ]

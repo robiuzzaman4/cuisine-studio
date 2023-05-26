@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  body {
+    font-family: 'Kumbh Sans', sans-serif;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-4 py-2 rounded-xl bg-gradient-to-r from-sky-500 to-blue-500 text-white font-medium
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 rounded-xl bg-gradient-to-r from-rose-500 to-pink-500 text-white font-medium
+  }
+
+  .btn-tertiary {
+    @apply px-4 py-2 rounded-xl bg-gradient-to-r from-orange-500 to-yellow-500 text-white font-medium
+  }
+
+  .active {
+    @apply text-orange-500
+  }
+}
